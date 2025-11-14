@@ -13,7 +13,7 @@ public class H2_main {
         switch (input){
             case 10: x=true;
             case 11: y=true;
-            case 1: y=true
+            case 1: y=true;
         }
 
 
